@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Ganti ini dengan ID grup kamu
-const GROUP_ID = '1203630xxxxxxxx@g.us';
+const GROUP_ID = '120363411087986481@g.us';
 
 // Lokasi file disimpan ke folder Downloads
 const TEXT_FILE = '/data/data/com.termux/files/home/storage/downloads/saved_text.txt';
